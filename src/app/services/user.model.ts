@@ -1,5 +1,3 @@
-import { SrvRecord } from "dns";
-
 export interface User {
   uid: string;
   email: string;
